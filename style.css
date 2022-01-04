@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif, "Roboto";
+    background-color: thistle;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+.oneph {
+    float: right;
+}
+
+.twoph {
+    float: right;
+}
+
+.threeph {
+    float: right;
+}
+
+.fourph {
+    float: right;
+}
+
+.fiveph {
+    float: right;
+}
+
+.sixph {
+    float: right;
+}
+
+.sevenph {
+    float: right;
+}
+
+.eightph {
+    float: right;
+}
+
+.nineph {
+    float: right;
+}
+
+.tenph {
+    float: right;
+}
+
+table {
+    border: 1px;
+}
+
+figure {
+    clear: right;
+    float: right;
+ }
