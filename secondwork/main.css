@@ -1,13 +1,14 @@
 body {
-    margin: 0;
+    margin: auto;
     font-family: 'Roboto', sans-serif;
 }
+
 
 .header {
     background-color: rgba(0, 119, 101, 1);
     height: 84px;
     width: 100%;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
@@ -15,18 +16,55 @@ body {
     color: #fff;
 }
 
+
 .nav {
-    font-family: 'Roboto'; sans-serif;
+    margin: 0 auto;
+    padding-top: 24px;
+    position: absolute;
+    padding-left: 1187px;
     font-size: 24px;
     font-weight: 500;
-    color: #fff;
-    margin-right: 400px;
-    margin-top: 34px;
 }
 
-.main {
-    width: 100%;
+
+.logo {
+    margin: 0 auto;
+    padding-left: 500px;
+    position: static;
+    padding-top: 20px;
+}
+
+
+.firstph {
     height: 403px;
-    background: url(img/Jumbotron.png) center, no-repeat;
-
+    width: 100%;
 }
+
+
+.secondph {
+    width: 100%;
+    position: relative;
+}
+
+.container {
+    width: 1219px;
+    padding-left: 55px;
+    padding-right: 55px;
+    margin: 0 auto;
+    font-size: 32px;
+}
+
+h1 {
+    color: rgba(0, 119, 101, 1);
+    font-size: 64px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.second {
+    color: #fff;
+    font-size: 48px;
+    text-align: center;
+    display: inline-block;
+}
+
